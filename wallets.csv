@@ -1,0 +1,23 @@
+id,name,amount,user_id
+2,StarGazer Main,1000,1
+3,MoonWalker Savings,1500,2
+4,MoonWalker Holiday Fund,500,2
+5,SunChaser Expenses,750,3
+6,PlanetHopper Investments,2000,4
+7,CometTail Emergency,600,5
+8,AsteroidBelt Leisure,300,6
+9,CosmicSurfer Gear,1200,7
+10,NebulaDreamer Projects,800,8
+11,GalaxyGuardian Missions,5000,9
+12,SpacePirate Booty,2500,10
+13,MeteorShower Observations,450,11
+14,OrbitNavigator Research,1100,12
+15,StarlightSeeker AstroPhotography,700,13
+16,AuroraWatcher NorthernLights,900,14
+17,BlackHoleSpy Discoveries,4000,15
+18,QuantumJumper Theories,200,16
+19,RocketRider Launchpad,1500,17
+20,AlienAnthropologist Fieldwork,1000,18
+21,VoidVoyager DeepSpace,3000,19
+22,InterstellarNomad Exploration,3500,20
+23,InterstellarNomad Reserves,800,20
