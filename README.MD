@@ -53,21 +53,26 @@ The SQLite Wallet App revolutionizes personal finance management with a user-fri
 
 ---
 
-## Preview Video
-[Watch the 10-minute detailed preview video here](https://youtu.be/VIDEO_ID)
+## Preview Videos
+**2-minute preview:**
 
----
+
+https://github.com/user-attachments/assets/a2164156-f882-442b-a3a4-3b7c9ce039f6
+
+
+
+**[Watch the 10-minute detailed preview video here](https://www.youtube.com/watch?v=lp3UqHoFjQE)**
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sqlite-wallet-app.git
+   git clone https://github.com/mohamedelziat50/SQLite-Wallet-App.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd sqlite-wallet-app
+   cd SQLite-Wallet-App
    ```
 
 3. Ensure Python and SQLite are installed on your system.
